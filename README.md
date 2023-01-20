@@ -28,6 +28,7 @@ Web / App Developer (React, React-Native)
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=prashanthcn21&label=PROFILE+VIEWS&style=flat-square&color=yellow)
 
 ### Socials
 
