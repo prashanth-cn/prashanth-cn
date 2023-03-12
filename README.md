@@ -32,16 +32,16 @@ Web / App Developer (React, React-Native)
 
 ### Socials
 
-<p align="left"> <a href="https://www.dev.to/prashanthcn21" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.dev.to/prashanth-cn-0092" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <details>
   <summary>:zap: GitHub stats</summary>
-  <a href="http://www.github.com/prashanthcn21"><img src="https://github-readme-stats-zeta-ten-82.vercel.app/api?username=prashanthcn21&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="prashanthcn21's GitHub stats" width="49.5%" style="border-radius: 10px"/></a>
-  <a href="http://www.github.com/prashanthcn21"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prashanthcn21&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="49.5%" style="border-radius: 10px"/></a>
+  <a href="http://www.github.com/prashanth-cn-0092"><img src="https://github-readme-stats-zeta-ten-82.vercel.app/api?username=prashanth-cn-0092&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="prashanth-cn-0092's GitHub stats" width="49.5%" style="border-radius: 10px"/></a>
+  <a href="http://www.github.com/prashanth-cn-0092"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prashanth-cn-0092&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="49.5%" style="border-radius: 10px"/></a>
 
-<a href="http://www.github.com/prashanthcn21"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=prashanthcn21&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" style="border-radius: 10px;overflow: hidden"/></a>
+<a href="http://www.github.com/prashanth-cn-0092"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=prashanth-cn-0092&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" style="border-radius: 10px;overflow: hidden"/></a>
 </details>
 
 
