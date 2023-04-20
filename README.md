@@ -1,4 +1,4 @@
-Hi 👋 My name is Prashanth
+<!-- Hi 👋 My name is Prashanth
 ==========================
 
 Web / App Developer (React, React-Native)
@@ -45,3 +45,4 @@ Web / App Developer (React, React-Native)
 </details>
 
 
+ -->
