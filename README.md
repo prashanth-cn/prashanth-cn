@@ -1,7 +1,7 @@
-<!-- Hi 👋 My name is Prashanth
-==========================
+ ### Hi 👋 
 
-Web / App Developer (React, React-Native)
+
+<!-- Web / App Developer (React, React-Native)
 -----------------------------------------
 
 * 🌍  I'm based in Bangalore, India
