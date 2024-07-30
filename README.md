@@ -39,5 +39,5 @@ Web / App Developer (React, React-Native)
 <details>
   <summary>:zap: GitHub stats</summary>
   <a href="http://www.github.com/prashanth-cn"><img src="https://github-readme-stats-sable-two-65.vercel.app/api/?username=prashanth-cn&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="prashanth-cn's GitHub stats" width="49.5%" style="border-radius: 10px"/></a>
-<a href="http://www.github.com/prashanth-cn"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=prashanth-cn&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" style="border-radius: 10px;overflow: hidden"/></a>
+<a href="http://www.github.com/prashanth-cn"><img src="https://github-readme-activity-graph.vercel.app/graph?username=prashanth-cn&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" style="border-radius: 10px;overflow: hidden"/></a>
 </details>
